@@ -1,0 +1,1 @@
+This project deals with inventory management. Given a text file, my code will parse the text data into an array and then formats an output to the console, making sure to parse integers into Integers for each part of the array.
